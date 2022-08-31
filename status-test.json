@@ -1,4 +1,4 @@
 {
     "status": 400,
-    "message": "Google Meet ⇔ Slack is down for upgradation. Please check status using the help button in the extension."
+    "message": "Google Meet ⇔ Slack is down for upgradation. Use Google Meet normally until we are back. Check <a href='https://github.com/yakshaG/google-meet-slack-integration' target='_blank'>status</a>."
 }
