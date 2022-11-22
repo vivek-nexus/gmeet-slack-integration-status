@@ -12,7 +12,7 @@ Status is updated by one of the maintainers of https://github.com/yakshaG/google
 }
 ````
 
-##400
+## 400
 ````
 {
     "status": 400,
