@@ -1,4 +1,4 @@
 {
-    "status": 200,
-    "message": "<strong>Google Meet ⇔ Slack is running. Use Ctrl + V to join meeting, Ctrl + Q to exit meeting.</strong><br />Status updates sometimes may not work for back-to-back, super short meetings (< 1min)."
+    "status": 400,
+    "message": "<strong>Google Meet ⇔ Slack is disabled until a critical bug is fixed.</strong> <br /> You can use Google Meet normally, until the extension is automatically enabled again. Check status <a href='https://github.com/yakshaG/google-meet-slack-integration#google-meet--slack-integration' target='_blank'>here</a>."
 }
