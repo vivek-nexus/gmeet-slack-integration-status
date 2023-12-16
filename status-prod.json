@@ -1,4 +1,4 @@
 {
     "status": 200,
-    "message": "<strong>Google Meet ⇔ Slack is running. Use Ctrl + V to join meeting, Ctrl + Q to exit meeting.</strong><br />Status updates sometimes may not work for back-to-back, super short meetings (< 1min)."
+    "message": "<strong>Google Meet ⇔ Slack is running. Use Ctrl + V to join meeting, Ctrl + Q to exit meeting.</strong><br />Open the extension for more settings."
 }
